@@ -1,0 +1,3 @@
+# add tenants here and specify which profile edge is using
+DEFAULT: Default
+DEV: Profile 4
